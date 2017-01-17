@@ -1,0 +1,17 @@
+{
+  "name"    : "prueba",
+  "version" : "0.1.0",
+  "description": "A minimal Electron application",
+  "main"    : "main.js",
+  "scripts": {
+      "start": "electron main.js"
+  },
+  "repository": "https://github.com/FaustoBinpar/Prueba.git",
+ "license": "CC0-1.0",
+  "author": "Fausto Silva",
+  "dependencies": {
+      "electron":"^1.4.14"
+  }
+      
+
+}
